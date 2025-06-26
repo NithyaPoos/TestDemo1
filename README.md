@@ -17,6 +17,9 @@ $ git log
 Lists version history for the current branch
 $ git diff [first-branch]...[second-branch]
 Shows content differences between two branches
-
+-------------------------------------------------------------------------------
+git fetch origin
+git checkout origin/filename
+git checkout --track origin/feature-payments  # WORKS
 $ git reset --hard [commit]
 Discards all history and changes back to the specified commit
