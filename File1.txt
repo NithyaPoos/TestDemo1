@@ -1,9 +1,9 @@
 This is my first file
 This is my second line added to this file .
-This is my third line added here in this file.
-fourth line is added from github .
 
-//comment
-........
+
+added 
+//
+merge now.
 
 
