@@ -1,2 +1,5 @@
 This is my first file
 This is my second line added to this file .
+added 
+//
+merge now.
